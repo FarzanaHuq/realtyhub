@@ -1,7 +1,7 @@
 import React from 'react'
 import Input from '../Ui/Input'
 import LogInOption from './LogInOption'
-import PrimaryButton from '../Ui/primaryButton'
+import PrimaryButton from '../Ui/PrimaryButton'
 import SecondaryButton from '../Ui/SecondaryButton'
 import Link from 'next/link'
 
